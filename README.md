@@ -1,4 +1,9 @@
+---
+created: 2021-05-05T07:11:02.539Z
+modified: 2021-05-05T07:22:55.905Z
+---
 # OneNoteApi
+
 JavaScript library to make calling the OneNote API easier.
 
 ## Setup
